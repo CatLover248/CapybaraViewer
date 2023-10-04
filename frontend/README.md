@@ -6,4 +6,3 @@
 ## https://capacitorjs.com/docs/v2/basics/building-your-app
 
 # Open any issues in the github.com/CatLover248/CapybaraViwer if you have any issues
-

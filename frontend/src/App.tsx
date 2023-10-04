@@ -1,13 +1,12 @@
 import 'bootstrap/dist/css/bootstrap.css'
 import View from './components/View';
-
+import Footer from './components/Footer';
 function App() {
     return (
-      <div style={{
-        backgroundColor: "rgb(242,242,242)"}}>
+      <>
         <View />
-      
-      </div>
+        <Footer />
+      </>
     );
 }
 
