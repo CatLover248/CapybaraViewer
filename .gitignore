@@ -1,1 +1,4 @@
-/frontend/android/app/build/*
+/frontend/android/*
+/frontend/android/*
+/frontend/dist/*
+/node_modules/*
