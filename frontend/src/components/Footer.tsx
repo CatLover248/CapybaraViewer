@@ -2,10 +2,23 @@
 function Footer() {
   return (
     <div id="Footer">
-        <h1>Huge thanks to replit for hosting of the backend!</h1>
-        <a href="https://replit.com/">replit.com</a>
+        <h1>Credits</h1>
+        <a href="https://github.com/CatLover248/CapybaraViewer">CatLover248 @ Github - Yusuf</a>
         <br/>
-        <a href="https://replit.com/@yusuflovescats/CapybaraAPI#main.py">Backend @ Replit</a>
+        <a href="https://capacitorjs.com/">Capacitor - Making mobile app possible</a>
+        <br/>
+
+        <a href="https://capacitorjs.com/">React - Web framework</a>
+        <br/>
+
+        <a href="https://capacitorjs.com/">Vite - Build tool</a>
+        <br/>
+
+        <a href="https://capacitorjs.com/">Node - Js runtime</a>
+        <br/>
+
+        <a href="https://capacitorjs.com/">Typescript - Language used</a>
+        <br/>
     </div>
   )
 }
